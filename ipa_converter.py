@@ -576,7 +576,7 @@ def ipa_to_pinyin(ipa: str) -> str:
         'o': 'o', 'ɔ': 'ao', 'o̞': 'o', 'o̞˞': 'or',
         'ɤ': 'e', 'ɛ': 'i', 'e': 'ie', 'œ': 'ue',
         'ɵ': 'ou', 'ʊ': 'ong', 'ʊ̃˞': 'ongr', 'ɤ˞': 'e', 'ɤ̞˞': 'eng', 'ɤ˞˞': 'er',
-        'ɚ': 'r', 'ɐ': 'i', 'ɚ̃': 'ngr',
+        'ɚ': 'r', 'ɐ': 'i', 'ɚ̃': 'ngr', 'ʌ̹': 'ao',
 
         # Diphthongs and Triphthongs
         'ja': 'ia', 'wa': 'ua',
